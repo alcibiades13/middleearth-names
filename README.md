@@ -4,7 +4,7 @@
 
 Example of usage:
 
-```html
+```js
 var lib = require('./src/index.js');
 lib.all // get all characters
 lib.random() get random character
