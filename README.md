@@ -2,7 +2,14 @@
 
 ## Get all middle earth character names or random one
 
-Example of usage:
+### Instalation
+
+Easiest way to install the library is using npm. Simply run
+```
+npm install middleearth-names
+```
+
+### Example of usage:
 
 ```js
 var middleEarthNames = require('middleearth-names');
