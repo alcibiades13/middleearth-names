@@ -5,7 +5,7 @@
 Example of usage:
 
 ```js
-var lib = require('./src/index.js');
-lib.all // get all characters
-lib.random() get random character
+var middleEarthNames = require('middleearth-names');
+console.log(middleEarthNames.all);
+console.log(middleEarthNames.random());
 ```
