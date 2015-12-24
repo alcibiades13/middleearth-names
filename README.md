@@ -1,4 +1,4 @@
-# middleearth-names
+# Middle Earth character names
 
 ## Get all middle earth character names or random one
 
